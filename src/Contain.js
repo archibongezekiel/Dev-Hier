@@ -26,7 +26,7 @@ function App(params) {
           rate="5.0"
           levels="(6) •"
           country="Nigeria"
-          about="Life lesson with Ezekiel Archibong"
+          about="Lesson code with Ezekiel Archibong"
           prices="From 300k"
         />{" "}
         <Main
@@ -34,7 +34,7 @@ function App(params) {
           rate="10.0"
           levels="(10) •"
           country="Nigeria"
-          about="Life lesson with Charles Archibong"
+          about="Lesson code with Charles Archibong"
           prices="From 500k"
         />{" "}
         <Main
@@ -42,7 +42,7 @@ function App(params) {
           rate="9.0"
           levels="(8) •"
           country="Nigeria"
-          about="Life lesson with Richard Ingwe"
+          about="Lesson code with Richard Ingwe"
           prices="From 450k"
         />
       </div>
